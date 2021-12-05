@@ -1,0 +1,16 @@
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\11nR.Services.dll
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\11nR.Services.pdb
+C:\Users\joshu\source\repos\11nR\11nR.Services\obj\Debug\11nR.Services.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\11nR\11nR.Services\obj\Debug\11nR.Services.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\11nR\11nR.Services\obj\Debug\11nR.Services.dll
+C:\Users\joshu\source\repos\11nR\11nR.Services\obj\Debug\11nR.Services.pdb
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\11nR.Services.dll.config
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\EntityFramework.dll
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\EntityFramework.xml
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joshu\source\repos\11nR\11nR.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joshu\source\repos\11nR\11nR.Services\obj\Debug\11nR.Services.csproj.CopyComplete

@@ -11,6 +11,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using _11nR.WebMVC.Models;
+using _11nR.Data;
 
 namespace _11nR.WebMVC
 {

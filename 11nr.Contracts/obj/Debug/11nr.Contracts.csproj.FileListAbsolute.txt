@@ -1,0 +1,16 @@
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\11nr.Contracts.dll
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\11nr.Contracts.pdb
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\obj\Debug\11nr.Contracts.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\obj\Debug\11nr.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\obj\Debug\11nr.Contracts.dll
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\obj\Debug\11nr.Contracts.pdb
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\11nr.Contracts.dll.config
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joshu\source\repos\11nR\11nr.Contracts\obj\Debug\11nr.Contracts.csproj.CopyComplete
